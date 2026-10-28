@@ -1,4 +1,4 @@
-# Real_Estate_Price_Analytics
+# 🏠 Real_Estate_Price_Analytics
 A Complete Data Analysis Project Using Python
 
 ## 📌 Project Overview
