@@ -83,7 +83,7 @@ Houses were compared in these groups:
 - Luxury homes
 - This helped show how prices differ between the groups of houses.
 
-###7️⃣ Data Visualization Dashboard
+### 7️⃣ Data Visualization Dashboard
 - A simple dashboard was created using:
   - Matplotlib
   - Seaborn
