@@ -54,7 +54,7 @@ Key Features:
 Missing values were found in:
 1. bedrooms
 2. bathrooms
-#####Method Used:
+##### Method Used:
 - Missing values were filled using the median (the middle value). This method helps keep the data's overall pattern and reduces the effect of unusually high or low values.
 
 ### 4️⃣ Exploratory Data Analysis (EDA)
